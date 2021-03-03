@@ -2,10 +2,10 @@
 #
 # Glenariff Theme
 #
-template:
-  primary-color: #ffffff
+glenariff:
+  primary-color: "#ffffff"
   # Text
-  primary-font-family: "Nunito, sans-serif"
+  primary-font-family: "Work Sans, sans-serif"
   paper-font-common-base_-_font-family: "var(--primary-font-family)"
   paper-font-common-code_-_font-family: "var(--primary-font-family)"
   paper-font-body1_-_font-family: "var(--primary-font-family)"
@@ -13,3 +13,20 @@ template:
   paper-font-headline_-_font-family: "var(--primary-font-family)"
   paper-font-caption_-_font-family: "var(--primary-font-family)"
   paper-font-title_-_font-family: "var(--primary-font-family)"
+  mdc-typography-font-family: "var(--primary-font-family)"
+  glenariff-text-color: "#000000"
+  primary-text-color: "var(--glenariff-text-color)"
+  secondary-text-color: "var(--glenariff-text-color)"
+  text-primary-color: "var(--glenariff-text-color)"
+  app-header-text-color: "var(--glenariff-text-color)"
+  sidebar-selected-text-color: "var(--glenariff-text-color)"
+  sidebar-text-color: "var(--glenariff-text-color)"
+  mdc-theme-primary: "grey"
+  # Card
+  ha-card-border-radius: "20px"
+  masonry-view-card-margin: "10px"
+  ha-card-box-shadow: "0px 4px 20px rgba(0, 0, 0, 0.1)"
+  # Icon
+  sidebar-selected-icon-color: "#000000"
+  # Header
+  header-height: "48px"
