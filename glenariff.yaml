@@ -1,0 +1,15 @@
+---
+#
+# Glenariff Theme
+#
+template:
+  primary-color: #ffffff
+  # Text
+  primary-font-family: "Nunito, sans-serif"
+  paper-font-common-base_-_font-family: "var(--primary-font-family)"
+  paper-font-common-code_-_font-family: "var(--primary-font-family)"
+  paper-font-body1_-_font-family: "var(--primary-font-family)"
+  paper-font-subhead_-_font-family: "var(--primary-font-family)"
+  paper-font-headline_-_font-family: "var(--primary-font-family)"
+  paper-font-caption_-_font-family: "var(--primary-font-family)"
+  paper-font-title_-_font-family: "var(--primary-font-family)"
